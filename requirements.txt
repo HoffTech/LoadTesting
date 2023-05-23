@@ -1,0 +1,5 @@
+allure_python_commons==2.9.45
+envyaml==1.10.211231
+pandas==1.4.1
+PyYAML==6.0
+PyYAML==6.0

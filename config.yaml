@@ -1,0 +1,12 @@
+
+
+
+load_testing:
+  path: $SERVICE_FOLDER
+  excel_template: LoadTesting.xlsx
+  json_folder: json
+  service: $SERVICE_NAME
+  overload_token: $OVERLOAD_TOKEN
+
+      
+
