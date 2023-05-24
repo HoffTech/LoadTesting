@@ -1,0 +1,17 @@
+
+host: test.ru:443
+
+endpoints:
+  - title: EndPoint 1
+    endpoint: /api/v1/example
+    json_file: example.json
+
+method: POST
+ssl: True
+
+timeout: 1000
+
+ammount_rps: $AMMOUNT_RPS|30
+load_type: $LOAD_TYPE|rps
+rps_type: $RPS_TYPE|const(1, 10s)
+instances: $INSTANCES|5

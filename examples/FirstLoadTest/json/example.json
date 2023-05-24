@@ -1,0 +1,5 @@
+{
+    "testVar": "${testvar1}",
+    "newVar": "${testvar2}",
+    "staticVar": "Static value"
+}
