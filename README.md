@@ -34,7 +34,7 @@ chmod a+x run.sh
 ```
 
 
-## Open source licensing info
+## License
 1. [LICENSE](LICENSE)
 
 
